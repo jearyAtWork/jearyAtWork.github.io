@@ -1,5 +1,5 @@
 Starting point...
 
-[readme.md](Readme)
-[readme](Readme)
-[README.md](Readme?)
+[Readme1](readme.md)
+[readme2](readme)
+[README.md](README.md)
