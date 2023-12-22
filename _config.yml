@@ -1,3 +1,4 @@
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-relative-links
 relative_links:
