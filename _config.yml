@@ -1,6 +1,7 @@
-theme: minimal-mistakes-jekyll
+remote-theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
